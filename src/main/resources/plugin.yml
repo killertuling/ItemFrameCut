@@ -1,0 +1,5 @@
+name: ItemFrameCut
+version: '${project.version}'
+main: top.catnies.itemframecut.ItemFrameCut
+api-version: '1.18'
+authors: [Catnies]

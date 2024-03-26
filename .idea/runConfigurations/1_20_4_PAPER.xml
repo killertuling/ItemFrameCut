@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="1.20.4 PAPER" type="JarApplication" folderName="Minecraft">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/../../../MinecraftDebugServer/1.20.4-Paper/paper-1.20.4-385.jar" />
+    <option name="VM_PARAMETERS" value="-Xms3G -Xmx4G" />
+    <option name="PROGRAM_PARAMETERS" value="--nogui" />
+    <option name="WORKING_DIRECTORY" value="H:\MinecraftDebugServer\1.20.4-Paper" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17" />
+    <method v="2" />
+  </configuration>
+</component>
